@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DanielCW7/github_finder.git/static/css/main.78b39f31.chunk.css",
-    "main.js": "/DanielCW7/github_finder.git/static/js/main.3e3a1b97.chunk.js",
-    "main.js.map": "/DanielCW7/github_finder.git/static/js/main.3e3a1b97.chunk.js.map",
-    "runtime-main.js": "/DanielCW7/github_finder.git/static/js/runtime-main.f0ee57b1.js",
-    "runtime-main.js.map": "/DanielCW7/github_finder.git/static/js/runtime-main.f0ee57b1.js.map",
-    "static/js/2.66bd62a1.chunk.js": "/DanielCW7/github_finder.git/static/js/2.66bd62a1.chunk.js",
-    "static/js/2.66bd62a1.chunk.js.map": "/DanielCW7/github_finder.git/static/js/2.66bd62a1.chunk.js.map",
-    "index.html": "/DanielCW7/github_finder.git/index.html",
-    "static/css/main.78b39f31.chunk.css.map": "/DanielCW7/github_finder.git/static/css/main.78b39f31.chunk.css.map",
-    "static/js/2.66bd62a1.chunk.js.LICENSE.txt": "/DanielCW7/github_finder.git/static/js/2.66bd62a1.chunk.js.LICENSE.txt"
+    "main.css": "/github_finder/static/css/main.78b39f31.chunk.css",
+    "main.js": "/github_finder/static/js/main.3e3a1b97.chunk.js",
+    "main.js.map": "/github_finder/static/js/main.3e3a1b97.chunk.js.map",
+    "runtime-main.js": "/github_finder/static/js/runtime-main.a8442c66.js",
+    "runtime-main.js.map": "/github_finder/static/js/runtime-main.a8442c66.js.map",
+    "static/js/2.66bd62a1.chunk.js": "/github_finder/static/js/2.66bd62a1.chunk.js",
+    "static/js/2.66bd62a1.chunk.js.map": "/github_finder/static/js/2.66bd62a1.chunk.js.map",
+    "index.html": "/github_finder/index.html",
+    "static/css/main.78b39f31.chunk.css.map": "/github_finder/static/css/main.78b39f31.chunk.css.map",
+    "static/js/2.66bd62a1.chunk.js.LICENSE.txt": "/github_finder/static/js/2.66bd62a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0ee57b1.js",
+    "static/js/runtime-main.a8442c66.js",
     "static/js/2.66bd62a1.chunk.js",
     "static/css/main.78b39f31.chunk.css",
     "static/js/main.3e3a1b97.chunk.js"
